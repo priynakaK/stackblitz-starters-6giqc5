@@ -1,0 +1,9 @@
+div {
+  width: 100%;
+  height: 36rem;
+  background-color: grey;
+  align-items: center;
+  vertical-align: middle;
+  align-self: center;
+  align-content: center;
+}
